@@ -1,0 +1,24 @@
+{
+  "name": "@types/dynamicheadinsertion",
+  "version": "0.0.1",
+  "description": "Type Definition for DynamicHeadInsertion Package",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utdcometsoccer/DynamicHeadInsertionTypes.git"
+  },
+  "keywords": [
+    "DynamicHeadInsertion",
+    "Typescript",
+    "Definiton"
+  ],
+  "author": "Idaho Edokpayi <idaho@whoisidaho.com> (https://github.com/utdcometsoccer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utdcometsoccer/DynamicHeadInsertionTypes/issues"
+  },
+  "homepage": "https://github.com/utdcometsoccer/DynamicHeadInsertionTypes#readme"
+}
